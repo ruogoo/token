@@ -1,0 +1,14 @@
+{
+    "name": "ruogoo/token",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.3",
+        "nesbot/carbon": "^1.21",
+        "illuminate/cache": "^5.3"
+    }
+}
